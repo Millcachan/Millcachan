@@ -1,15 +1,6 @@
-<h1 align="center">Hi, I'm Camille Billard | Millca ✨
-
-</h1>
-<h3 align="center">A passionate programmer constantly learning new things ! 💖
-
-</h3>
-
-
-
-<h3 align="center">Connect with me:
-
-</h3>
+<h1 align="center">Hi, I'm Camille Billard | Millca ✨</h1>
+<h3 align="center">A passionate programmer constantly learning new things ! 💖</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://discord.gg/millcachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="millcachan" height="60" width="80" /></a>
 </p>
