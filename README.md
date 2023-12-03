@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Camille Billard | Millca ✨</h1>
 <h3 align="center">A passionate programmer constantly learning new things ! 💖</h3>
 
-<img align="center" alt="Coding" width="800" src="https://media.tenor.com/WmU_8UAyg_8AAAAC/night.gif">
+<p align="center"><img alt="Coding" width="1000" src="https://media.tenor.com/WmU_8UAyg_8AAAAC/night.gif"></p>
 
 
 <h3 align="center">Connect with me:</h3>
