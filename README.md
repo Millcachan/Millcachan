@@ -1,4 +1,4 @@
-<h2 align="center">✨ Hi, I'm Camille BILLARD | Millca ✨</h2>
+<h2 align="center">Hi, I'm Camille BILLARD | Millca</h2>
 
 <h3 align="center">
 I am currently a fourth year EPITECH student, Intern in DevOps team of Asahi Kasei EU and a software developer for Splinter3D
@@ -36,6 +36,3 @@ I am currently a fourth year EPITECH student, Intern in DevOps team of Asahi Kas
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </p>
-
-<h4 align="center">You can see right there some exciting project I am proud of:</h4>
-
