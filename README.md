@@ -1,4 +1,8 @@
-<h2 align="center">✨ Hi, I'm Camille Billard | Millca ✨</h1>
-<h4 align="center">💖 A passionate programmer constantly learning new things ! 💖</h3>
-<h4 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> </p>
+<h2 align="center">✨ Hi, I'm Camille BILLARD | Millca ✨</h1>
+<h4 align="center"> I am currently a fourth year EPITECH student, Intern in DevOps team of Asahi Kasei EU and a software developper for Splinter3D </h3>
+<h4 align="center">Languages I worked with:</h3>
+![C/C++](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
